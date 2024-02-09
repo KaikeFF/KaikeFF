@@ -17,5 +17,5 @@
 ### Você também pode me encontrar no Linkedin!
  
 <div> 
-  <a href="https://www.linkedin.com/in/kaike-freitas-de-fran%C3%A7a-4b6615269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/kaike-freitas-de-fran%C3%A7a-4b6615269/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
